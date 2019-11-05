@@ -106,9 +106,7 @@ client.on("guildMemberAdd", member => {
 
 });
     
-  });
-     })
-    }})
+ 
 
 
 
