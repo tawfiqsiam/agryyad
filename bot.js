@@ -17,7 +17,7 @@ let done = {};
 
 
 const sWlc = {}
-const premium = ['411137717884289024', '', '', '']
+const premium = ['641222138879016970', '', '', '']
 client.on('message', message => {
 var prefix = "p";
 if(message.channel.type === "dm") return;
